@@ -1,3 +1,6 @@
 # osgi-intellij
 OSGi IntelliJ Integration
- Test123
+
+This repository includes demo code for developing OSGi with IntelliJ IDEA
+
+...more docs are coming soon
