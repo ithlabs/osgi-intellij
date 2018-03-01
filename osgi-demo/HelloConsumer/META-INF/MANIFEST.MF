@@ -1,0 +1,5 @@
+Bundle-ManifestVersion: 2
+Bundle-Name: HelloConsumer
+Bundle-SymbolicName: HelloConsumer
+Bundle-Version: 1.0.0
+Bundle-Activator: org.osgiusers.hello.consumer.Activator
