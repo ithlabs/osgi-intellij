@@ -1,0 +1,6 @@
+Bundle-ManifestVersion: 2
+Bundle-Name: HelloService
+Bundle-SymbolicName: HelloService
+Bundle-Version: 1.0.0
+Bundle-Activator: org.osgiusers.hello.service.Activator
+Export-Package: org.osgiusers.hello.service
